@@ -1,7 +1,13 @@
-# C4all
+# C4all-Secure-Chat
 
-Comments for all is an easy to use comment field. Read more about it on the [website](http://c4all.github.io).
+Currently assembling team to modify C4all into the core of a secure bare bones chat system anyone can use. Key will be keeping
+in mind .. fast and small with low server requests.
 
+
+
+
+
+Following is from origional C4all README
 ### Development setup
 
     # prepare the virtual environment (requires virtualenvwrapper: http://virtualenvwrapper.readthedocs.org/en/latest/)
