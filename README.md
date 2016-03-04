@@ -7,7 +7,7 @@ in mind .. fast and small with low server requests.
 
 1). stop individual and group communications from being monitored.
 
-2). provide secure anonymous routes for anyone to send tips to media and security organizations.
+2). provide secure anonymous routes for anyone to send tips to security organizations.
 
 We have some new ideas to make secure communications easy to use and implement.
 
