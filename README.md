@@ -3,7 +3,35 @@
 Currently assembling team to modify C4all into the core of a secure bare bones chat system anyone can use. Key will be keeping
 in mind .. fast and small with low server requests.
 
+Goals.
 
+1). stop individual and group communications from being monitored.
+2). provide secure anonymous routes for anyone to send tips to media and security organizations.
+
+We have some new ideas to make secure communications easy to use and implement.
+
+These ideas stop meta data collection that is used to identify who communicated with who.
+
+NOTE: We will not be doing anything illegal, including hacking or any such thing.
+
+You:
+Are a social activist.
+Have:
+CSS skills
+or python programming skills
+or php programming skills
+or javascript skills
+or html5 skills
+or server administration skills
+or some ideas and skills that can help.
+
+Emphasis will be on using with open source software(s) that we will modify to meet our needs.
+
+Interested in being part of something that just might gain worldwide attention?
+
+Give me a shout.
+
+Richard 
 
 
 
